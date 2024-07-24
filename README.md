@@ -19,8 +19,8 @@ This project implements a real-time object tracking system using the Scale-Invar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sift-tracking.git
-   cd sift-tracking
+  https://github.com/Raghavrs1999/SIFT-Tracking-with-ROI.git
+   cd SIFT-Tracking-with-ROI
    ```
 
 2. (Optional) Create and activate a virtual environment:
@@ -39,7 +39,7 @@ This project implements a real-time object tracking system using the Scale-Invar
 Run the script with:
 
 ```
-python SIFT_Tracking.py
+python SIFT Tracking.py
 ```
 
 1. When the live stream window opens, use your mouse to draw a rectangle around the object you want to track.
